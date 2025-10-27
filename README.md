@@ -22,7 +22,7 @@ Este proyecto se realiza como proyecto final de la asignatura **Modelos y Simula
 ### Enlaces de interés
 
 - [Página del curso](https://jdariasl.github.io/Intro_ML_2025/intro.html)
-- [Guía del proyecto](https://github.com/jdariasl/ML_Intro_Course/blob/master/proyectos/Guia_proyecto_Modelos_II.pdf)
+- [Guía del proyecto]([https://github.com/jdariasl/ML_Intro_Course/blob/master/proyectos/Guia_proyecto_Modelos_II.pdf](https://github.com/jdariasl/Intro_ML_2025/blob/main/local/docs/Guia_proyecto_Modelos_II.pdf))
 
 ## Estructura del Repositorio
 
@@ -31,3 +31,4 @@ A continuación se describe la estructura de este repositorio:
 - **/notebooks**: Incluye los Jupyter Notebooks con el análisis exploratorio de datos, preprocesamiento, entrenamiento de modelos y evaluación de resultados.
 - **/informe**: Contiene el informe final del proyecto en formato PDF compilado.
 - `README.md`: Este archivo, con la descripción general del proyecto.
+
